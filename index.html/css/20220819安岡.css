@@ -1,0 +1,55 @@
+.title {
+  color: blue;
+}
+
+
+.nav ul li {
+
+  margin-left: auto;
+  margin-right: 0;
+
+
+  display: inline-block;
+  color: blue;
+}
+
+img {
+  position: relative;
+
+  width: 50%;
+  height: 50%;
+
+  margin-right: 0;
+  margin-left: auto;
+  display: block;
+}
+
+.box {
+
+  position: absolute;
+
+  width: 75%;
+  height: 150px;
+  background: blue;
+}
+
+
+
+
+
+
+
+
+div.parent {
+  position: relative;
+  height: 300px;
+
+}
+
+p.text {
+  position: absolute;
+  bottom: 0;
+  margin: 0;
+
+  font-size: 80px;
+}
