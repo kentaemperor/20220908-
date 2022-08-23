@@ -1,13 +1,16 @@
 .title {
   color: blue;
+
+  display: flex;
+    justify-content: flex-start;
 }
 
 
 .nav ul li {
 
-  margin-left: auto;
-  margin-right: 0;
-
+  display: flex;
+    justify-content: flex-end;
+  
 
   display: inline-block;
   color: blue;
