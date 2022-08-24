@@ -1,19 +1,27 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
 .title {
   color: blue;
+  margin-top: 10px;
+  margin-left: 30px;
 
-  display: flex;
-    justify-content: flex-start;
+
 }
 
 
 .nav ul li {
 
-  display: flex;
-    justify-content: flex-end;
-  
-
   display: inline-block;
   color: blue;
+  margin-right: 10px;
+  padding-right: 10px;
+
 }
 
 img {
@@ -36,13 +44,6 @@ img {
   background: blue;
 }
 
-
-
-
-
-
-
-
 div.parent {
   position: relative;
   height: 300px;
@@ -54,5 +55,5 @@ p.text {
   bottom: 0;
   margin: 0;
 
-  font-size: 80px;
+  font-size: 60px;
 }
