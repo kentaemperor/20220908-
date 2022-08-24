@@ -8,10 +8,10 @@
 
 .title {
   color: navy;
-  margin-top: 10px;
+  margin-top: 20px;
   margin-left: 30px;
 
-font-size: 30px;
+  font-size: 30px;
 }
 
 
@@ -21,6 +21,8 @@ font-size: 30px;
   color: navy;
   margin-right: 10px;
   padding-right: 10px;
+
+  margin-top: 20px;
 
 }
 
@@ -51,7 +53,7 @@ img {
   height: 150px;
   background: navy;
 
-  top: 300px;
+  top: 350px;
   left: 0px;
 
   z-index: 0;
@@ -70,7 +72,7 @@ img {
 
 
 
-  top: 330px;
+  top: 340px;
   left: 0px;
 
 
